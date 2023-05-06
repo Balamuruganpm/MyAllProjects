@@ -6,6 +6,7 @@
 
 **1. Project : ( Html and CSS ) Here it Is 📇 : [LOGIN PAGE {Project 1}](https://github.com/Balamuruganpm/frontend-project1/tree/main)**
 
+**2. Project : ( Html and CSS ) Here it Is 📇 : [REGISTER PAGE {Project 2}](https://github.com/Balamuruganpm/frontend-project2/tree/main)**
 
 
 
